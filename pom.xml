@@ -122,7 +122,7 @@
                                 </database>
                                 <target>
                                     <packageName>org.jooq.example.testcontainers.db</packageName>
-                                    <directory>src/main/java</directory>
+                                    <directory>target/generated-sources</directory>
                                 </target>
                             </generator>
                         </configuration>
