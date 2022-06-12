@@ -18,3 +18,20 @@ The example should run right away.
 ```
 mvn versions:display-dependency-updates
 ```
+
+## References
+
+### Documentation
+
+- https://www.jooq.org/doc/3.16/manual-single-page/
+- https://docs.spring.io/spring-boot/docs/current/reference/html/data.html#data.sql.jooq
+
+### Articles
+
+- https://www.petrikainulainen.net/using-jooq-with-spring/
+- https://www.baeldung.com/jooq-with-spring
+
+### Examples
+
+- https://github.com/jOOQ/jOOQ/tree/main/jOOQ-examples/jOOQ-testcontainers-example
+
